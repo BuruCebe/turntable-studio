@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "turntable_studio"
+version = "0.1.0"
+name = "Turntable Studio"
+tagline = "One-click turntable camera, lights and render setup"
+maintainer = "BuruCebe"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+license = ["SPDX:MIT"]
+tags = ["Render", "Camera", "Animation"]
